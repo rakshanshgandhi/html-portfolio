@@ -1,2 +1,2 @@
 # html-portfolio
-This is my portfolio only using html for practice.
+This basic portfolio only using html for practice only.
